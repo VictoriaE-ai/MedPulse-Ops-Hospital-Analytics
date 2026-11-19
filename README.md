@@ -1,4 +1,4 @@
-# MedPulse Ops — Hospital Operations Analytics Dashboard and the Live Application section.
+# MedPulse Ops — Hospital Operations Analytics Dashboard.
 
 **This package contains only fictional, newly generated sample records. It is not a live hospital system.**
 
