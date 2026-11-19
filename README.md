@@ -1,4 +1,4 @@
-# MedPulse Ops — free static portfolio demonstration
+# MedPulse Ops — Hospital Operations Analytics Dashboard and the Live Application section.
 
 **This package contains only fictional, newly generated sample records. It is not a live hospital system.**
 
