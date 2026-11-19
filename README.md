@@ -12,7 +12,7 @@ React + TypeScript + Vite hospital operations dashboard with admissions, staffin
 
 ## Deploy free with Cloudflare Workers (Git integration)
 1. Create a **new** GitHub repository, and upload the contents of this folder (not a zip into the repository).
-2. In Cloudflare Dashboard > Workers & Pages > Create application > Pages > Connect to Git, choose the repository.
+2. In Cloudflare Dashboard > Workers & Pages, create a **Worker** using the GitHub repository integration, and select this repository (not the Pages deployment flow).
 3. Build command: `npm run build`
 4. Build output directory: `dist`
 5. Install command if requested: `npm install`; build-time environment variables: none.
