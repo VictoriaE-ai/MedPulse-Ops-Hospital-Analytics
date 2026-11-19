@@ -1,4 +1,10 @@
 # MedPulse Ops — Hospital Operations Analytics Dashboard.
+## 🌐 Live Application
+
+**[🚀 Launch MedPulse Ops Dashboard](https://medpulse-ops-hospital-analytics.victoria-ekweani.workers.dev)**
+
+Explore an interactive hospital operations analytics demonstration featuring performance dashboards, workforce analysis and statistical forecasting using fictional hospital data.
+
 
 **This package contains only fictional, newly generated sample records. It is not a live hospital system.**
 
