@@ -5,7 +5,7 @@
 React + TypeScript + Vite hospital operations dashboard with admissions, staffing, forecasting, CSV mapping and exports. The online guide uses deterministic local calculations rather than Gemini AI. No API keys, backend service, or paid model usage is required.
 
 ## Deploy free with Cloudflare Pages (Git integration)
-1. Create a **new** GitHub repository, upload the contents of this folder (not a zip into the repository).
+1. Create a **new** GitHub repository, and upload the contents of this folder (not a zip into the repository).
 2. In Cloudflare Dashboard > Workers & Pages > Create application > Pages > Connect to Git, choose the repository.
 3. Build command: `npm run build`
 4. Build output directory: `dist`
